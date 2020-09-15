@@ -5,8 +5,8 @@ Have you ever faced with the lack of possibility of using NMap? For instance if 
 
 This is a small script which will help you to scan a network if you have nothing.
 
-
+```
 Usage example: ./port-enum.sh 192.168.1.1
--------------------------------------
+```
 
 ![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/spe-012.png)
