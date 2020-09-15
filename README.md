@@ -4,9 +4,16 @@ Have you ever faced with the lack of possibility of using NMap? For instance if 
 
 This is a small script which will help you to scan a network if you have nothing.
 
+Usage example:
 ```
-Usage example: ./port-enum.sh 192.168.1.1
+chmod +x port-enum.sh
+./port-enum.sh 192.168.1.1
 ```
+or
+```
+bash port-enum.sh 192.168.1.1
+```
+
 
 An original article:
 [https://www.ivanglinkin.com/simple-port-enumeration/](https://www.ivanglinkin.com/simple-port-enumeration/)
