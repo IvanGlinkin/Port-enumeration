@@ -5,6 +5,7 @@ Have you ever faced with the lack of possibility of using NMap? For instance if 
 This is a small script which will help you to scan a network if you have nothing.
 
 Usage example:
+--------------
 ```
 chmod +x port-enum.sh
 ./port-enum.sh 192.168.1.1
