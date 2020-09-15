@@ -15,6 +15,7 @@ or
 bash port-enum.sh 192.168.1.1
 ```
 
+
 An original article:
 --------------------
 [https://www.ivanglinkin.com/simple-port-enumeration/](https://www.ivanglinkin.com/simple-port-enumeration/)
@@ -23,6 +24,7 @@ An original article:
 Video example:
 --------------
 ![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/spe_gif.gif)
+
 
 Screenshots:
 ------------
