@@ -23,9 +23,9 @@ An original article:
 
 Video example:
 --------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/spe-gif.gif)
+![](https://github.com/IvanGlinkin/media_support/blob/main/Port-enumeration_Video.gif?raw=true)
 
 
 Screenshots:
 ------------
-![](https://www.ivanglinkin.com/wp-content/uploads/2020/09/spe-012.png)
+![](https://github.com/IvanGlinkin/media_support/blob/main/Port-enumeration_image.png?raw=true)
